@@ -1,0 +1,14 @@
+{
+  "sellerId": "CABL",
+  "productId": "200",
+  "data": {
+    "name": "Grape Jelly",
+    "L1": "Condiments",
+    "L2": "Jelly/Jam",
+    "L3": "Grape",
+  },
+  "errors": [
+    {
+    }
+  ]
+}
